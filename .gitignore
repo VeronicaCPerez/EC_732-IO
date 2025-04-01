@@ -1,0 +1,13 @@
+*.dta
+*gta_apr_2023_MeasureID.csv
+data\final_run\output\gta_apr_2023_MeasureID.csv
+*training_args.bin
+*pytorch_model.bin
+*optimizer.pt
+*.pyc
+venv
+.venv
+.flake8
+*-checkpoint.ipynb
+.DS_Store
+.Rhistory
